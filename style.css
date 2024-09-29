@@ -1,0 +1,15 @@
+.total-price{
+    font-weight: bold;
+}
+.product {
+    position: relative;
+}
+
+.heart-btn {
+    cursor: pointer;
+    color: grey;
+}
+
+.heart-btn.liked {
+    color: red;
+}
